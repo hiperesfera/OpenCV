@@ -1,5 +1,5 @@
 # OpenCV
 
-A Simple C program for motion detecion using the OpenCV library
+A simple C program for motion detecion using the OpenCV library
 
-2008 project for the module "Computational Imaging", Faculty of Physics of University of Santiago de Compostela
+This is a project from 2008 for the module "Computational Imaging". (Faculty of Physics, University of Santiago de Compostela)
